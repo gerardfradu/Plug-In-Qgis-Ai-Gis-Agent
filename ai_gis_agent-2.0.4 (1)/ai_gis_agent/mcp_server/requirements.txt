@@ -1,0 +1,8 @@
+# MCP v2 runtime. Keep the major version bounded so a future breaking MCP v3
+# release is not silently selected without a compatibility review.
+mcp[cli]>=2.0.0,<3.0.0
+
+# Optional ML stack. Normal AI GIS AGENT GIS functionality works without these packages.
+pandas>=2.2
+scikit-learn>=1.5
+joblib>=1.4

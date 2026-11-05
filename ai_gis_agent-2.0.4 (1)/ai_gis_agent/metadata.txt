@@ -1,0 +1,17 @@
+[general]
+name=AI GIS AGENT
+qgisMinimumVersion=3.28
+qgisMaximumVersion=4.99
+homepage=https://aigisagent.netlify.app/
+repository=https://github.com/aigisagentpro/Ai-gis-agent-pro
+tracker=https://github.com/aigisagentpro/Ai-gis-agent-pro/issues
+code_repository=https://github.com/aigisagentpro/Ai-gis-agent-pro
+license=GPL-2.0-or-later
+description=AI GIS automation for QGIS with multi-agent GIS workflows, MCP connectivity, internet geodata and optional machine learning.
+version=2.0.4
+author=Gerard Franch
+email=aigisagentpro@gmail.com
+about=AI GIS AGENT connects QGIS with an autonomous multi-agent GIS workflow through MCP. No license key or activation is required. Distributed under GNU GPL v2.0.
+experimental=False
+deprecated=False
+tags=AI,MCP,GIS,automation,Processing,cartography,machine learning
